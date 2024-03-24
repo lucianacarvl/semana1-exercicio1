@@ -1,4 +1,4 @@
-<img src="./reprograma-roxo.png>
+<img src="./reprograma-roxo.png">
 
 # **Semana 01**
 ### *Exercício 01
